@@ -61,7 +61,7 @@ All visualizations are saved as PNG files in the repository.
 
 ## 📷 Sample Plot
 
-![Top 10 Countries](top_10_countries.png)
+![Top 10 Countries](Top_10_countries_with_the_highest_number_of_shows.png)
 
 ---
 
