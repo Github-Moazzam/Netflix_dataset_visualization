@@ -54,7 +54,7 @@ All visualizations are saved as PNG files in the repository.
 ## ▶️ How to Run This Project
 
 1. Download or clone this repository
-2. Open `Netflix_Analysis.ipynb` in Jupyter Notebook or Google Colab
+2. Open `netflix_analysis.ipynb` in Jupyter Notebook or Google Colab
 3. Run the notebook cells step-by-step to reproduce the visualizations
 
 ---
